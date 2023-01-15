@@ -1,5 +1,5 @@
-There are two input files, sample-ab.txt and sample-c.txt.
-  sample-ab.txt has 10000 vertices, sample-c.txt has 30.
+# CourseProject-S19-Zookeeper  
 
-There are output files for sample-ab.txt run with MST and FASTTSP,
-while sample-c.txt was run with all 3 modes.
+This is course project of Juncheng An. <Spring 2019 - EECS 281: Data Structures and Algorithms - Project 4>.  
+
+Updated for personal documentation and application purpose, DO NOT use for course project.
